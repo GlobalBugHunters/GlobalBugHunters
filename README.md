@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GlobalBugHunters
+- 👋 Hi, we are @GlobalBugHunters
 ![Global Bug Hunters](https://media.licdn.com/dms/image/D5616AQG_Z0ArgPE2cg/profile-displaybackgroundimage-shrink_350_1400/0/1697818810064?e=1704326400&v=beta&t=9MR_yHV7PPk4Y6m5ZbCOC0GzBTCvxzho_02gm0Jle9k)
 - 👀 We are interested in ...
 Programming (Websites | Web Apps | Mobile Apps | Python Scripts)
